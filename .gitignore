@@ -1,5 +1,6 @@
-*.env
-*venv
-*.mp3
-*.pdf
 .DS_Store
+*.pdf
+*.pdf
+venv/
+*.mp3
+.env
