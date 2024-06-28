@@ -1,0 +1,5 @@
+*.env
+*venv
+*.mp3
+*.pdf
+.DS_Store

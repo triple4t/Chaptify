@@ -1,0 +1,9 @@
+pypdf 
+sentence-transformers
+langchain[docarray]
+docarray
+openai
+streamlit
+tiktoken
+openai
+
